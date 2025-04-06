@@ -4,7 +4,7 @@
 ## Description
 Code a data structure and algorithm to hold 100,000 student data entries as efficiently as possible; uses chaining hash function.. Functions included to support adding, searching, removing and updating student data entires. Also includes outputting to CSV file.
 
-Link to presentation: https://docs.google.com/presentation/d/1ER2O8_GEnVhEl4CR3zxPsYWKNhucwZmYMAiwHIvGzc0/edit#slide=id.p
+Link to presentation: https://docs.google.com/presentation/d/1ER2O8_GEnVhEl4CR3zxPsYWKNhucwZmYMAiwHIvGzc0/edit?usp=sharing
 
 Below is an example of an output:
 ```
